@@ -6,6 +6,10 @@
 
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-green?style=flat-square)
 
+![leaflet](https://img.shields.io/badge/leaf-let-green?style=flat-square)
+
+![openstreetmap](https://img.shields.io/badge/openstreet-map-green?style=flat-square)
+
 ![capacitor](https://img.shields.io/badge/capacitor-.js-green?style=flat-square)
 
 The purpose of this app is the display the current position of the international space station over the world by using the API. I have used leaflet and openstreetmap in this project.
